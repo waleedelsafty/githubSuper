@@ -1,0 +1,3 @@
+[submodule "submod2"]
+	path = submod2
+	url = git@github.com:waleedelsafty/githubSuper
